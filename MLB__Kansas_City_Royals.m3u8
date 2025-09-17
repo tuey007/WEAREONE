@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=auto
+http://user.scalecdn.co:8080/live/26725074/92867131/390409.ts&extension=m3u8
